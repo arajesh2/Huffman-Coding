@@ -1,10 +1,3 @@
-// Stuart Reges
-// 5/25/05
-//
-// Decode prompts the user for the name of a binary (encoded) input file and a
-// code file name and produces as output a text file containing the original
-// file.  Assumes that the binary input file was creaed by Encode.
-
 import java.io.*;
 import java.util.*;
 
